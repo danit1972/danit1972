@@ -10,7 +10,9 @@
 - Python – Data analysis, automation, and visualization
 - Looker – Data exploration and LookML development
 - Dataiku – End-to-end data workflows and machine learning integration
-
+- SQL - Perform queries
+- 
+ ⚡ Fun fact: Watch movies, colaborate with other community
 <!--
 **danit1972/danit1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
