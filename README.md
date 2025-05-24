@@ -1,6 +1,7 @@
 #### 👋 I'm Danitzel
 
 🎯 I am a data specialist. 
+
 💼 Currently working as an independent professional.  
 
 
