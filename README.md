@@ -4,7 +4,7 @@
 💼 Currently working as an independent professional.  
 📍 Ubicado en Panama.
 
-🌱 I’m currently learning and developing projects in:
+#### 📚 Currently Learning & Developing
 
 - Power BI – Advanced modeling, DAX, and performance optimization
 - Python – Data analysis, automation, and visualization
