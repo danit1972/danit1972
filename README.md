@@ -4,7 +4,12 @@
 💼 Currently working as an independent professional.  
 📍 Ubicado en Panama.
 
-🌱 I’m currently learning Python, Azure Devops
+🌱 I’m currently learning and developing projects in:
+
+- Power BI – Advanced modeling, DAX, and performance optimization
+- Python – Data analysis, automation, and visualization
+- Looker – Data exploration and LookML development
+- Dataiku – End-to-end data workflows and machine learning integration
 
 <!--
 **danit1972/danit1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
