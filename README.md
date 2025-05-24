@@ -1,8 +1,8 @@
 #### 👋 I'm Danitzel
 
-🎯 I'm Licencia en Análisis y Programación de Sistemas passionate about data..  
+🎯 I am a data specialist. 
 💼 Currently working as an independent professional.  
-📍 Ubicado en Panama.
+
 
 #### 📚 Currently Learning & Developing
 
