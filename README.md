@@ -1,4 +1,8 @@
-#### 👋 ¡Hola! Soy [Danitzel]
+#### 👋 I'm Danitzel
+
+🎯 I'm Licencia en Análisis y Programación de Sistemas passionate about data..  
+💼 Currently working as an independent professional.  
+📍 Ubicado en Panama.
 
 🌱 I’m currently learning Python, Azure Devops
 
